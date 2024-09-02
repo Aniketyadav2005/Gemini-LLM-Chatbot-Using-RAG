@@ -15,6 +15,8 @@ Environment Variables: API keys and other sensitive data are handled securely us
 ## Requirements
 
 The following Python libraries:
-1) dotenv
-2) streamlit
-3) google.generativeai
+### 1) dotenv : Loading Environment Variables: The line load_dotenv() loads environment variables from a .env file into your program’s environment. This is typically used at the start of the program.
+
+### 2) streamlit : Streamlit simplifies web development by allowing you to create apps using pure Python
+
+### 3) google.generativeai :The google.generativeai library is useful for integrating Google's Gemini language model, enabling you to interact with state-of-the-art large language models (LLMs) directly in your applications. Here’s how google.generativeai can be helpful in your model:
